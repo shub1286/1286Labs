@@ -1,0 +1,67 @@
+/*********** CSS TABLE OF CONTENTS *******************
+
+|--- 01.Component -> { Header }
+|--- 01.Component -> { Menu }
+|--- 01.Component -> { Button }
+|--- 01.Component -> { Lists }
+|--- 01.Component -> { Background }
+|--- 01.Component -> { Form }
+|--- 01.Component -> { Cards }
+|--- 01.Component -> { Modal }
+|--- 01.Component -> { Tab }
+|--- 01.Component -> { Acccordion }
+|--- 01.Component -> { Sidebar }
+|--- THEME CUSTOM STYLES
+
+******************************************************/
+
+// @use "helpers";
+// @use "components";
+// @use "layout";
+// @use "react-adjustment";
+
+
+
+body{
+    background-color: #010101 !important;
+    font-family: 'Graphik' !important;
+            &::-webkit-scrollbar {
+                width: 0px;
+            }
+    // @media (max-width:1200px) {
+        
+    //     &::-webkit-scrollbar {
+    //         width: 1px;
+    //     }
+    // }
+}
+html{
+    @media (max-width:1200px) {
+        scroll-behavior: smooth;
+    }
+}
+// .section{
+//     &:not(.no-flex){
+//         >div{
+//             display: flex;
+//             align-items: center;
+//             flex-direction: column;
+//             justify-content: center;
+//         }
+//     }
+//     >div{
+//         padding-top: 50px;
+//         padding-bottom: 70px;
+//         height: 100vh;
+//     }
+//     &-normal{
+//         >div{
+//             padding-top: 50px;
+//             padding-bottom: 90px;
+//         }
+//     }
+// }
+
+.fp-watermark{
+    display: none!important;
+}

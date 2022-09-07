@@ -1,0 +1,1 @@
+export const anchors = [{item:"About",anchor:"about"}, {item:"Products",anchor:"product"},{item:"Solutions",anchor:"solution"},{item:"Initiatives",anchor:"initiative"},{item:"Founders",anchor:"founder"},{item:"Investors",anchor:"investor"},{item:"Bug Bounty",anchor:"bug"},{item:"Contact",anchor:"contact"}]

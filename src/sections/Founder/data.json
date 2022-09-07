@@ -1,0 +1,27 @@
+[
+  {
+    "image":"./image/png/founder-img-1.png",
+    "title":"Shubham Kumar",
+    "link":"#",
+    "linkText":"@YsaeNFT",
+    "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown."
+   
+  },
+  {
+    "image":"./image/png/founder-img-2.png",
+    "title":"Nathan Mooney",
+    "link":"#",
+    "linkText":"@YsaeNFT",
+    "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown."
+    
+  },
+  {
+    "image":"./image/png/founder-img-3.png",
+    "title":"Sidhanth Yadav",
+    "link":"#",
+    "linkText":"@YsaeNFT",
+    "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown."
+    
+  }
+  
+]
